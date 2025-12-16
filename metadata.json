@@ -1,0 +1,7 @@
+{
+  "name": "Travel Agent",
+  "description": "An interactive chat tool that transforms simple queries into advanced, high-quality AI prompts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
