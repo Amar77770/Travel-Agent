@@ -83,6 +83,14 @@ This application solves these issues by acting as an intelligent "Agent":
 *   **Sidebar History:** 
     *   Automatically saves chat sessions to local storage so you can revisit past trips.
 
----
+## Some Screenshots for the Same : 
+<img width="1600" height="694" alt="image" src="https://github.com/user-attachments/assets/fe183873-d1f1-4674-b108-5d9fd066b522" />
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/f900f5ba-3b82-4b2b-9fab-dea7fc178dfa" />
+<img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/3b3894ca-c041-4f23-aea9-afe0db141af3" />
+<img width="1600" height="687" alt="image" src="https://github.com/user-attachments/assets/24895221-a813-402b-bc61-24326e0a3432" />
+<img width="1600" height="683" alt="image" src="https://github.com/user-attachments/assets/547c3bed-b022-4b2b-9a41-154293fcde8a" />
+<img width="1600" height="682" alt="image" src="https://github.com/user-attachments/assets/b212b23c-5e3b-4826-8c0c-9f06d90cdcdf" />
 
 **Note:** This project demonstrates a "Client-Side Agent" architecture where complex AI logic is handled directly in the frontend application securely using environment variables.
+
+
